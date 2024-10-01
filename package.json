@@ -1,0 +1,14 @@
+{
+  "name": "ns-docs",
+  "version": "1.0.0",
+  "description": "Documentation for new space group",
+  "main": "index.md",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "IR",
+  "license": "ISC",
+  "dependencies": {
+    "retypeapp": "^3.6.0"
+  }
+}

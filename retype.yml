@@ -1,0 +1,14 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: New Space Docs
+  label: v1.0
+  logo: /assets/logo.png
+links:
+- text: Github
+  link: https://github.com/orgs/Green2Moon/teams/newspace-team/repositories
+  icon: mark-github
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+favicon: /assets/logo.png
